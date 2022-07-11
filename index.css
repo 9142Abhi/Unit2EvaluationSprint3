@@ -1,0 +1,49 @@
+
+
+#create{
+  width: 30%;
+  margin: auto;
+  padding: 20px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  margin-top: 50px;
+  padding-bottom: 40px;
+}
+h1{
+  text-align: center;
+  
+}
+input,select{
+  display: block;
+  width: 80%;
+  margin: auto;
+  padding:8px 5px ;
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10px auto;
+  font-weight: bold;
+
+}
+select{
+  width: 82.7%;
+}
+input[type="submit"]{
+  width: 83%;
+}
+table{
+
+width: 60%;
+margin: auto;
+
+}
+tr,th,td{
+    padding: 5px 10px;
+font-size: 24px;
+}
+thead>tr{
+padding: 5px 10px;
+font-size: 24px;
+/* border-collapse: collapse; */
+
+background-color: rgb(226, 187, 11);
+}
+
